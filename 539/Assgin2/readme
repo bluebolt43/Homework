@@ -1,0 +1,12 @@
+gcc encrypt.c -o encrypt
+gcc decrypt.c -o decrypt
+gcc brute-png-pdf-text.c - o brute
+gcc weak.c -o weak
+
+echo "This is an apple." > 1
+./encrypt 1
+
+./weak 1
+./brute 1
+
+./decrypt xxxxx 1

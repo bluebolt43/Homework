@@ -1,0 +1,4 @@
+gcc brute.c
+
+./a.out 100000 400
+./a.out 100000 400 rainbot.dat
